@@ -1,0 +1,2 @@
+signalrcore==0.9.5
+urllib3==2.0.5
